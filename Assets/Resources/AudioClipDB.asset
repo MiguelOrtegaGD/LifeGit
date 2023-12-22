@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 281546a677ffa8248b205410bc1d8bb5, type: 3}
+  m_Name: AudioClipDB
+  m_EditorClassIdentifier: 
+  _clips:
+  - _id: Pum
+    _clip: {fileID: 8300000, guid: 2ba8224a20524094c81db610e68d79fa, type: 3}
+  - _id: Macarena
+    _clip: {fileID: 8300000, guid: 404df46a45fcf1f4a9a25159d6cea22a, type: 3}
+  - _id: Techno
+    _clip: {fileID: 8300000, guid: cb49c521c2a6d124fb4fabda53af35b6, type: 3}
+  - _id: Silence
+    _clip: {fileID: 8300000, guid: 70d94e7567bbdc5448d7de1a7e79fe9e, type: 3}

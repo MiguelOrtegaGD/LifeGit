@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49035b5cfa867ce4f9d02918332e7951, type: 3}
+  m_Name: GravityGun
+  m_EditorClassIdentifier: 
+  _gunName: GravityGun
+  _settings:
+    _stats:
+      _ammoCapacity: 10
+      _cadence: 0.1
+      _reloadDelay: 10
+    _ammoPrefab: {fileID: 7113114648209273519, guid: 5711f0a209c1c70418929a995f8226f3, type: 3}
